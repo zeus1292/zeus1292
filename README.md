@@ -5,8 +5,6 @@
      T H E   B U I L D E R ' S   N O T E B O O K
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1e24&height=220&section=header&text=&fontSize=0" width="100%"/>
-
 ```
   ╔══════════════════════════════════════════════════════════════════════════════╗
   ║                                                                            ║
@@ -188,53 +186,6 @@ Sentiment analysis pipeline on Reddit comments to identify correlations with BTC
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                      T H E   J O U R N E Y                                │
-│                                                                             │
-│       "Every strike brings me closer to the next home run."                │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-```
-2025 ──────── AI Product Manager & Builder (Contract/Consulting)
-  │           ├── Building Agentic AI solutions & evaluation frameworks
-  │           ├── Multi-modal AI agents (Smart Chef, Research Lens)
-  │           └── LLM-Ops framework · 20% latency reduction
-  │
-2024 ──────── Senior AI Solutions & Product Manager @ C3 AI
-  │           ├── 0→1 AI product development for Fortune 500
-  │           ├── $6.5M in working capital savings unlocked
-  │           └── Generative AI ingestion framework pioneer
-  │
-2020 ──────── Senior Product Manager @ S&P Global (Capital IQ Pro)
-  │           ├── 69% user growth · 101% usage growth YoY
-  │           ├── Pioneered RAG pipelines → 40% search accuracy boost
-  │           ├── ML-powered field search with transfer learning
-  │           ├── Natural language screener for financial analysts
-  │           └── Contributed to $2B+ annual platform revenue
-  │
-2019 ──────── Data Scientist @ Cowen Investment Management
-  │           ├── Predictive analytics for investment professionals
-  │           └── Energy price forecasting — 80% accuracy
-  │
-2018 ──────── M.S. Business Analytics @ Columbia University 🎓
-  │           └── Columbia Engineering × Columbia Business School
-  │
-2015 ──────── Product Owner @ S&P Global Market Intelligence
-  │           ├── ML integration for Capital IQ
-  │           ├── Enterprise APIs: 900+ clients · $133M ACV
-  │           └── 25% user engagement improvement
-  │
-2011 ──────── B.S. Computer Science @ VIT 🎓
-```
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
