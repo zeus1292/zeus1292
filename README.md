@@ -39,7 +39,7 @@ name:       Akshay Kumar
 location:   San Francisco Bay Area, CA
 education:  M.S. Business Analytics — Columbia University
 focus:      Turning complex AI into products people actually use
-experience: 10+ years shipping AI products at S&P Global, C3 AI & beyond
+experience: 10+ years shipping AI products at S&P Global, C3 AI, Capital One & beyond
 philosophy: "The best AI products disappear into the workflow."
 ```
 
